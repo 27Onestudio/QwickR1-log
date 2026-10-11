@@ -1,0 +1,1 @@
+ALTER TABLE `printJobs` MODIFY COLUMN `status` enum('new','printing','ready','completed','problem') NOT NULL DEFAULT 'new';

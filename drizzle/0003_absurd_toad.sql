@@ -1,0 +1,1 @@
+ALTER TABLE `pricing` MODIFY COLUMN `active` boolean NOT NULL DEFAULT false;

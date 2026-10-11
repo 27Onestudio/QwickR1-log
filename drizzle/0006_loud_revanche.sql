@@ -1,0 +1,1 @@
+ALTER TABLE `printJobs` ADD CONSTRAINT `print_jobs_access_token_hash_unique` UNIQUE(`accessTokenHash`);

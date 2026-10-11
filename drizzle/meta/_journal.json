@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1790463520800,
+      "tag": "0000_brown_madame_masque",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1790463698327,
+      "tag": "0001_loud_rocket_racer",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1790464323868,
+      "tag": "0002_yielding_kylun",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1790464590476,
+      "tag": "0003_absurd_toad",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1791657348019,
+      "tag": "0004_regular_omega_flight",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1791657409334,
+      "tag": "0005_optimal_changeling",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1791657562786,
+      "tag": "0006_loud_revanche",
+      "breakpoints": true
+    }
+  ]
+}
